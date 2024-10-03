@@ -21,3 +21,4 @@ fn calculate_area(shape: Shape) -> f64 {
         Shape::Square(side) => side*side,
     }
 }
+}
